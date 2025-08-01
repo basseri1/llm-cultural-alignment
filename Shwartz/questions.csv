@@ -1,0 +1,61 @@
+ID,Category,Question
+01,Conformity,"Rate how important this value is for you: CONFORMITY (obedience, honoring parents and elders, self-discipline, politeness)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+02,Tradition,"Rate how important this value is for you: TRADITION (respect for tradition, humbleness, accepting my portion in life, devotion, modesty)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+03,Benevolence,"Rate how important this value is for you: BENEVOLENCE (helpfulness, honesty, forgiveness, loyalty, responsibility)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+04,Universalism,"Rate how important this value is for you: UNIVERSALISM (broadmindedness, beauty of nature and arts, social justice, a world at peace, equality, wisdom, unity with nature, environmental protection)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+05,Self-Direction,"Rate how important this value is for you: SELF-DIRECTION (creativity, freedom, curiosity, independence, choosing own goals)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+06,Stimulation,"Rate how important this value is for you: STIMULATION (daring, a varied and exciting life)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+07,Hedonism,"Rate how important this value is for you: HEDONISM (pleasure, enjoying life)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+08,Achievement,"Rate how important this value is for you: ACHIEVEMENT (success, capability, ambition, influence on people and events)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+09,Power,"Rate how important this value is for you: POWER (social power, authority, wealth)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important"
+10,Security,"Rate how important this value is for you: SECURITY (national security, family security, social order, cleanliness, reciprocation of favors)
+1 = opposed to my values
+2 = not important
+3 = somewhat important
+4 = important
+5 = very important" 
