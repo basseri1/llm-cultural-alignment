@@ -8,6 +8,8 @@
 
 <p align="center">
   <img src="https://github.com/basseri1/llm-cultural-alignment/raw/main/assets/cultural_alignment_banner.png" alt="Project Banner" width="600">
+  <br>
+  <em>Banner image created by OpenAI's GPT-4o</em>
 </p>
 
 ## 📖 Description
@@ -174,6 +176,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Cultural frameworks and theories by Geert Hofstede, Shalom Schwartz, and Ronald Inglehart
 - OpenAI, Anthropic, and Google for providing API access to their language models
+- Banner image created by OpenAI's GPT-4o
 
 ---
 
