@@ -27,6 +27,10 @@ wheels/
 */llm_responses/*.csv
 */scores/*.csv
 
+# Excel files
+*.xlsx
+*.xls
+
 # Virtual Environment
 venv/
 env/
