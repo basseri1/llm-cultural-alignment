@@ -7,7 +7,7 @@
 [![Gemini](https://img.shields.io/badge/Gemini-API-orange.svg)](https://ai.google.dev/tutorials/python_quickstart)
 
 <p align="center">
-  <img src="https://github.com/basseri1/llm-cultural-alignment/raw/main/assets/cultural_alignment_banner.png" alt="Project Banner" width="600">
+  <img src="https://github.com/basseri1/llm-cultural-alignment/raw/main/assets/cultural_alignment_banner_v2.png" alt="Project Banner" width="600">
   <br>
   <em>Banner image created by OpenAI's GPT-4o</em>
 </p>
